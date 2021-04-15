@@ -9,6 +9,7 @@ for address to change in NZ
 - [Immigration NZ](https://www.immigration.govt.nz/)
 - [CCDHB](https://www.ccdhb.org.nz/)
 - [ManageMyHealth](https://www.managemyhealth.co.nz/m/)
+- [LowCostBin](https://www.lowcostbins.co.nz/)
 
 ## Banking
 - ANZ
