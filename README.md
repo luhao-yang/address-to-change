@@ -10,7 +10,7 @@ for address to change in NZ
 - [CCDHB](https://www.ccdhb.org.nz/)
 - [ManageMyHealth](https://www.managemyhealth.co.nz/m/)
 - [LowCostBin](https://www.lowcostbins.co.nz/)
-- Porirua Council(Rates)
+- Porirua Council([Rates](https://poriruacity.govt.nz/services/rates-property/rates/))
 
 ## Banking
 - ANZ
